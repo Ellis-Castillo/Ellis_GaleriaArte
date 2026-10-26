@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yeso">#F8F3EB</color>
+    <color name="celeste">#C3EDEA</color>
+    <color name="pasto">#C1DBB3</color>
+    <color name="calabaza">#FC7E2F</color>
+    <color name="fucsia">#F40552</color>
+    <color name="hormiga">#413333</color>
+</resources>
