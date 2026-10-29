@@ -3,10 +3,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="yeso">#F8F3EB</color>
+    <color name="yeso">#D7CFC3</color>
     <color name="celeste">#C3EDEA</color>
-    <color name="pasto">#C1DBB3</color>
-    <color name="calabaza">#FC7E2F</color>
+    <color name="pasto">#A5C196</color>
+    <color name="calabaza">#CE7F4E</color>
     <color name="fucsia">#F40552</color>
     <color name="hormiga">#413333</color>
 </resources>
